@@ -1,0 +1,19 @@
+
+Preferences > Settings -User-
+
+
+
+// Settings in here override those in "Default/Preferences.sublime-settings", and
+// are overridden in turn by file type specific settings.
+{
+	"autocomplete": true,
+    "color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+    "draw_white_space": "all",
+    "font_size": 15,
+    "tab_size": 4,
+    "translate_tabs_to_spaces": true,
+    "trim_trailing_white_space_on_save": true
+}
+
+
+modificarlo y salvarlo
